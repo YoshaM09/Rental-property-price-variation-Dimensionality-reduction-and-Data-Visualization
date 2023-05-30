@@ -1,4 +1,6 @@
 # Dimensionality reduction and Data visualization
+![NYC](https://github.com/YoshaM09/Dimensionality-reduction-and-Data-Visualization/assets/105993890/12a199b5-eabe-454a-b9a3-cfd499789ac2)
+
 ### Purpose:
 
 Examine NYC rental property pricing information to gain a better understanding of the availability and price range of rental properties. 
