@@ -3,7 +3,7 @@
 
 ### Purpose:
 
-Examine NYC rental property pricing information to gain a better understanding of the availability and price range of rental properties. 
+Examine NYC rental property pricing information to gain a better understanding of the availability and variability in price range of rental properties. 
 
 ### Problem Statement:
 
