@@ -1,4 +1,4 @@
-# Dimensionality reduction and Data visualization
+# Rental Property Price Variation
 <img width="458" alt="Screenshot 2023-05-30 at 9 00 22 AM" src="https://github.com/YoshaM09/Dimensionality-reduction-and-Data-Visualization/assets/105993890/5b350809-d6f1-4c3e-9baf-b8d641d8f2f1">
 
 ### Purpose:
